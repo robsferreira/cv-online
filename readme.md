@@ -6,8 +6,7 @@
 
 Treinando um pouco do HTML5, CSS3 e JAVASCRIPT.
 
-  [🔗 Clique aqui para acessar](https://robsferreira.github.io/cv-online) 
-    
+ <a href="https://robsferreira.github.io/cv-online" target="_blank" rel="noopener noreferrer">🔗 Clique aqui para acessar</a>   
 
   ## 👨‍💻 Tecnologias 
 
