@@ -167,13 +167,13 @@ footer {
     header {
         margin-bottom: 1rem; /* 10px */
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
         padding: 1.6rem;
     }
 
     header img {
-        display: flex;
-        align-items: center;
+        display: block;
+        margin: 0 auto;
         margin-bottom: 1rem; /* 10px */
     }
 
