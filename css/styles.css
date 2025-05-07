@@ -90,7 +90,7 @@ header p {
 }
 
 /* Botões */
-.btn, .btn-download {
+.btn, .btn-download, .btn-notanimed {
     font-size: 1.6rem;
     padding: 1rem 2rem; /* 10px 20px */
     text-decoration: none;
@@ -110,12 +110,16 @@ header p {
     transform: scale(1.05);
 }
 
-.btn-download {
+.btn-download, .btn-notanimed {
     background-color: #4CAF50;
     color: white;
 }
 
 .btn-download:hover {
+    background-color: #45A049;
+}
+
+.btn-notanimed:hover {
     background-color: #45A049;
 }
 
@@ -183,7 +187,7 @@ footer {
         max-width: 100%;
     }
 
-    .btn, .btn-download {
+    .btn, .btn-download, .btn-notanimed {
         width: 100%;
         margin-bottom: 1rem; /* 10px */
     }
