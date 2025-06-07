@@ -49,12 +49,12 @@ header {
     align-items: center;
     justify-content: center;
     padding: 2.4rem; /* 24px */
-    background: #007BFF;
+    background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); /* background: #007BFF; */
     color: white;
 }
 
 header img {
-    max-width: 6.25rem; /* 100px */
+    max-width: 9.25rem; /* 148px */
     height: auto;
     margin-right: 2rem; /* 20px */
 }
@@ -160,7 +160,8 @@ footer {
     font-size: 1.6rem;
     text-align: center;
     padding: 2rem; /* 20px */
-    background: #007BFF;
+    background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+/* background: #007BFF; */
     color: white;
     width: 100%;
 }
